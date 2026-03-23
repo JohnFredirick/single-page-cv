@@ -1,7 +1,6 @@
 # Single Page CV
 
-## Live URL
-https://JohnFredirick.github.io/single-page-cv/
+This project is a single-page CV built with HTML, CSS, and JavaScript.
 
-## How to Run
-Open index.html in a browser.
+## Project URL
+[Live Project](https://roadmap.sh/projects/single-page-cv)
